@@ -1,3 +1,4 @@
+#!/bin/env groovy
 
 def count = 0
 

@@ -1,3 +1,5 @@
+#!/bin/env groovy
+
 def br = new BufferedReader( new InputStreamReader(System.in))
 def count = 0
 def line=''
